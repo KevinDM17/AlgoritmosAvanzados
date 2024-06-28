@@ -1,0 +1,80 @@
+full_name,rating,jersey,team,position,b_day,height,weight,salary,country,draft_year,draft_round,draft_peak,college
+LeBron James,97,#23,Los Angeles Lakers,F,12/30/84,6-9 / 2.06,250 lbs. / 113.4 kg.,$37436858,USA,2003,1,1,
+Kawhi Leonard,97,#2,Los Angeles Clippers,F,06/29/91,6-7 / 2.01,225 lbs. / 102.1 kg.,$32742000,USA,2011,1,15,San Diego State
+Giannis Antetokounmpo,96,#34,Milwaukee Bucks,F-G,12/06/94,6-11 / 2.11,242 lbs. / 109.8 kg.,$25842697,Greece,2013,1,15,
+Kevin Durant,96,#7,Brooklyn Nets,F,09/29/88,6-10 / 2.08,230 lbs. / 104.3 kg.,$37199000,USA,2007,1,2,Texas
+James Harden,96,#13,Houston Rockets,G,08/26/89,6-5 / 1.96,220 lbs. / 99.8 kg.,$38199000,USA,2009,1,3,Arizona State
+Stephen Curry,95,#30,Golden State Warriors,G,03/14/88,6-3 / 1.91,185 lbs. / 83.9 kg.,$40231758,USA,2009,1,7,Davidson
+Anthony Davis,94,#3,Los Angeles Lakers,F-C,03/11/93,6-10 / 2.08,222 lbs. / 100.7 kg.,$27093019,USA,2012,1,1,Kentucky
+Paul George,93,#13,Los Angeles Clippers,F,05/02/90,6-8 / 2.03,210 lbs. / 95.3 kg.,$33005556,USA,2010,1,10,Fresno State
+Damian Lillard,92,#0,Portland Trail Blazers,G,07/15/90,6-2 / 1.88,195 lbs. / 88.5 kg.,$29802321,USA,2012,1,6,Weber State
+Joel Embiid,91,#21,Philadelphia 76ers,C,03/16/94,7-0 / 2.13,250 lbs. / 113.4 kg.,$27504630,Cameroon,2014,1,3,Kansas
+Kyrie Irving,91,#11,Brooklyn Nets,G,03/23/92,6-2 / 1.88,180 lbs. / 81.6 kg.,$31742000,Australia,2011,1,1,Duke
+Nikola Jokic,90,#15,Denver Nuggets,C,02/19/95,7-0 / 2.13,253 lbs. / 114.8 kg.,$27504630,Serbia,2014,2,41,
+Russell Westbrook,90,#0,Houston Rockets,G,11/12/88,6-3 / 1.91,190 lbs. / 86.2 kg.,$38506482,USA,2008,1,4,UCLA
+Klay Thompson,89,#11,Golden State Warriors,G,02/08/90,6-6 / 1.98,205 lbs. / 93 kg.,$32742000,USA,2011,1,11,Washington State
+Karl-Anthony Towns,89,#32,Minnesota Timberwolves,F-C,11/15/95,6-11 / 2.11,248 lbs. / 112.5 kg.,$27285000,USA,2015,1,1,Kentucky
+Jimmy Butler,88,#22,Miami Heat,G,09/14/89,6-7 / 2.01,220 lbs. / 99.8 kg.,$32742000,USA,2011,1,30,Marquette
+Rudy Gobert,88,#27,Utah Jazz,C,06/26/92,7-1 / 2.16,238 lbs. / 108 kg.,$25258427,France,2013,1,27,
+Blake Griffin,88,#23,Detroit Pistons,F,03/16/89,6-9 / 2.06,252 lbs. / 114.3 kg.,$34449964,USA,2009,1,1,Oklahoma
+Donovan Mitchell,88,#45,Utah Jazz,G,09/07/96,6-1 / 1.85,211 lbs. / 95.7 kg.,$3635760,USA,2017,1,13,Louisville
+Kemba Walker,88,#8,Boston Celtics,G,05/08/90,6-0 / 1.83,172 lbs. / 78 kg.,$32742000,USA,2011,1,9,UConn
+Luka Doncic,87,#77,Dallas Mavericks,G-F,02/28/99,6-7 / 2.01,227 lbs. / 103 kg.,$7683360,Slovenia,2018,1,3,
+LaMarcus Aldridge,87,#12,San Antonio Spurs,F-C,07/19/85,6-11 / 2.11,246 lbs. / 111.6 kg.,$26000000,USA,2006,1,2,Texas
+Bradley Beal,87,#3,Washington Wizards,G,06/28/93,6-3 / 1.91,207 lbs. / 93.9 kg.,$27093018,USA,2012,1,3,Florida
+Mike Conley,87,#10,Utah Jazz,G,10/11/87,6-1 / 1.85,185 lbs. / 83.9 kg.,$32511623,USA,2007,1,4,Ohio State
+DeMar DeRozan,87,#10,San Antonio Spurs,G-F,08/07/89,6-6 / 1.98,220 lbs. / 99.8 kg.,$27739975,USA,2009,1,9,USC
+CJ McCollum,87,#3,Portland Trail Blazers,G,09/19/91,6-3 / 1.91,197 lbs. / 89.4 kg.,$27556959,USA,2013,1,10,Lehigh
+Victor Oladipo,87,#4,Indiana Pacers,G,05/04/92,6-4 / 1.93,213 lbs. / 96.6 kg.,$21000000,USA,2013,1,2,Indiana
+Kristaps Porzingis,87,#6,Dallas Mavericks,F-C,08/02/95,7-3 / 2.21,220 lbs. / 99.8 kg.,$27285000,Latvia,2015,1,4,
+D'Angelo Russell,87,#0,Minnesota Timberwolves,G,02/23/96,6-4 / 1.93,193 lbs. / 87.5 kg.,$27285000,USA,2015,1,2,Ohio State
+Pascal Siakam,87,#43,Toronto Raptors,F,04/02/94,6-9 / 2.06,227 lbs. / 103 kg.,$2351838,Cameroon,2016,1,27,New Mexico State
+Ben Simmons,87,#25,Philadelphia 76ers,F,07/20/96,6-10 / 2.08,240 lbs. / 108.9 kg.,$8113929,Australia,2016,1,1,LSU
+De'Aaron Fox,86,#5,Sacramento Kings,G,12/20/97,6-3 / 1.91,171 lbs. / 77.6 kg.,$6392760,USA,2017,1,5,Kentucky
+Devin Booker,86,#1,Phoenix Suns,G,10/30/96,6-5 / 1.96,206 lbs. / 93.4 kg.,$27285000,USA,2015,1,13,Kentucky
+DeMarcus Cousins,86,#0,,C,08/13/90,6-10 / 2.08,270 lbs. / 122.5 kg.,$3500000,USA,2010,1,5,Kentucky
+Andre Drummond,86,#0,Cleveland Cavaliers,C,08/10/93,6-10 / 2.08,270 lbs. / 122.5 kg.,$27093018,USA,2012,1,9,UConn
+Draymond Green,86,#23,Golden State Warriors,F,03/04/90,6-6 / 1.98,230 lbs. / 104.3 kg.,$18539130,USA,2012,2,35,Michigan State
+Jrue Holiday,86,#11,New Orleans Pelicans,G,06/12/90,6-3 / 1.91,180 lbs. / 81.6 kg.,$26131111,USA,2009,1,17,UCLA
+Nikola Vucevic,86,#9,Orlando Magic,C,10/24/90,6-11 / 2.11,240 lbs. / 108.9 kg.,$28000000,Montenegro,2011,1,16,USC
+John Wall,86,#2,Washington Wizards,G,09/06/90,6-4 / 1.93,195 lbs. / 88.5 kg.,$38199000,USA,2010,1,1,Kentucky
+Jayson Tatum,85,#0,Boston Celtics,F,03/03/98,6-8 / 2.03,204 lbs. / 92.5 kg.,$7830000,USA,2017,1,3,Duke
+Trae Young,85,#11,Atlanta Hawks,G,09/19/98,6-1 / 1.85,180 lbs. / 81.6 kg.,$6273000,USA,2018,1,5,Oklahoma
+Eric Bledsoe,85,#6,Milwaukee Bucks,G,12/09/89,6-1 / 1.85,195 lbs. / 88.5 kg.,$15625000,USA,2010,1,18,Kentucky
+Clint Capela,85,#15,Atlanta Hawks,C,05/18/94,6-10 / 2.08,211 lbs. / 95.7 kg.,$16896552,Switzerland,2014,1,25,
+Tobias Harris,85,#12,Philadelphia 76ers,F,07/15/92,6-8 / 2.03,226 lbs. / 102.5 kg.,$32742000,USA,2011,1,19,Tennessee
+Al Horford,85,#42,Philadelphia 76ers,C-F,06/03/86,6-9 / 2.06,246 lbs. / 111.6 kg.,$28000000,Dominican Republic,2007,1,3,Florida
+Zach LaVine,85,#8,Chicago Bulls,G,03/10/95,6-6 / 1.98,181 lbs. / 82.1 kg.,$19500000,USA,2014,1,13,UCLA
+Kyle Lowry,85,#7,Toronto Raptors,G,03/25/86,6-0 / 1.83,205 lbs. / 93 kg.,$33296296,USA,2006,1,24,Villanova
+Khris Middleton,85,#22,Milwaukee Bucks,F,08/12/91,6-7 / 2.01,217 lbs. / 98.4 kg.,$30603448,USA,2012,2,39,Texas A&M
+Chris Paul,85,#3,Oklahoma City Thunder,G,05/06/85,6-1 / 1.85,175 lbs. / 79.4 kg.,$38506482,USA,2005,1,4,Wake Forest
+John Collins,84,#20,Atlanta Hawks,F,09/23/97,6-9 / 2.06,225 lbs. / 102.1 kg.,$2686560,USA,2017,1,19,Wake Forest
+Buddy Hield,84,#24,Sacramento Kings,G,12/17/93,6-4 / 1.93,212 lbs. / 96.2 kg.,$4861207,The Bahamas,2016,1,6,Oklahoma
+Kyle Kuzma,84,#0,Los Angeles Lakers,F,07/24/95,6-8 / 2.03,221 lbs. / 100.2 kg.,$1974600,USA,2017,1,27,Utah
+Jamal Murray,84,#27,Denver Nuggets,G,02/23/97,6-4 / 1.93,201 lbs. / 91.2 kg.,$4444746,Canada,2016,1,7,Kentucky
+Louis Williams,84,#23,Los Angeles Clippers,G,10/27/86,6-1 / 1.85,175 lbs. / 79.4 kg.,$8000000,USA,2005,2,45,
+Marvin Bagley,83,#35,Sacramento Kings,F,03/14/99,6-11 / 2.11,235 lbs. / 106.6 kg.,$8556120,USA,2018,1,2,Duke
+Bojan Bogdanovic,83,#44,Utah Jazz,G-F,04/18/89,6-8 / 2.03,216 lbs. / 98 kg.,$17000000,Croatia,2011,2,31,
+Malcolm Brogdon,83,#7,Indiana Pacers,G,12/11/92,6-5 / 1.96,223 lbs. / 101.2 kg.,$20000000,USA,2016,2,36,Virginia
+Danilo Gallinari,83,#8,Oklahoma City Thunder,F,08/08/88,6-10 / 2.08,225 lbs. / 102.1 kg.,$22615559,Italy,2008,1,6,
+Montrezl Harrell,83,#5,Los Angeles Clippers,F,01/26/94,6-7 / 2.01,253 lbs. / 114.8 kg.,$6000000,USA,2015,2,32,Louisville
+Kevin Love,83,#0,Cleveland Cavaliers,F,09/07/88,6-8 / 2.03,260 lbs. / 117.9 kg.,$28942830,USA,2008,1,5,UCLA
+Lauri Markkanen,83,#24,Chicago Bulls,F-C,05/22/97,7-0 / 2.13,240 lbs. / 108.9 kg.,$5300400,Finland,2017,1,7,Arizona
+Jusuf Nurkic,83,#27,Portland Trail Blazers,C,08/23/94,7-0 / 2.13,290 lbs. / 131.5 kg.,$12000000,Bosnia and Herzegovina,2014,1,16,
+Julius Randle,83,#30,New York Knicks,F,11/29/94,6-8 / 2.03,250 lbs. / 113.4 kg.,$18000000,USA,2014,1,7,Kentucky
+Marc Gasol,82,#33,Toronto Raptors,C,01/29/85,6-11 / 2.11,265 lbs. / 120.2 kg.,$25595700,Spain,2007,2,48,
+Steven Adams,82,#12,Oklahoma City Thunder,C,07/20/93,6-11 / 2.11,255 lbs. / 115.7 kg.,$25842697,New Zealand,2013,1,12,Pittsburgh
+Deandre Ayton,82,#22,Phoenix Suns,C,07/23/98,6-11 / 2.11,250 lbs. / 113.4 kg.,$9562920,The Bahamas,2018,1,1,Arizona
+Spencer Dinwiddie,82,#8,Brooklyn Nets,G,04/06/93,6-5 / 1.96,205 lbs. / 93 kg.,$10605600,USA,2014,2,38,Colorado
+Jaren Jackson,82,#13,Memphis Grizzlies,F-C,09/15/99,6-11 / 2.11,242 lbs. / 110 kg.,$6699960,USA,2018,1,4,Michigan State
+Paul Millsap,82,#4,Denver Nuggets,F-C,02/10/85,6-7 / 2.01,250 lbs. / 113.4 kg.,$30350000,USA,2017,2,47,Louisiana Tech
+Marcus Smart,82,#36,Boston Celtics,G,03/06/94,6-3 / 1.91,227 lbs. / 103 kg.,$12553571,USA,2014,1,6,Oklahoma State
+Myles Turner,82,#33,Indiana Pacers,F-C,03/24/96,6-11 / 2.11,239 lbs. / 108.4 kg.,$18000000,USA,2015,1,11,Texas
+Serge Ibaka,81,#9,Toronto Raptors,F,09/18/89,7-0 / 2.13,240 lbs. / 108.9 kg.,$23271604,Spain,2008,1,24,
+Zion Williamson,81,#1,New Orleans Pelicans,F,07/06/00,6-6 / 1.98,284 lbs. / 128.8 kg.,$9757440,USA,2019,1,1,Duke
+Rudy Gay,81,#22,San Antonio Spurs,F,08/17/86,6-8 / 2.03,230 lbs. / 104.3 kg.,$14500000,USA,2006,1,8,UConn
+Aaron Gordon,81,#0,Orlando Magic,F,09/16/95,6-8 / 2.03,220 lbs. / 99.8 kg.,$19863636,USA,2014,1,4,Arizona
+Brandon Ingram,81,#14,New Orleans Pelicans,F,09/02/97,6-7 / 2.01,196 lbs. / 88.9 kg.,$7265485,USA,2016,1,2,Duke
+DeAndre Jordan,81,#6,Brooklyn Nets,C,07/21/88,6-11 / 2.11,265 lbs. / 120.2 kg.,$9881598,USA,2008,2,35,Texas A&M
+Domantas Sabonis,81,#11,Indiana Pacers,F-C,05/03/96,6-11 / 2.11,231 lbs. / 104.8 kg.,$3529554,Lithuania,2016,1,11,Gonzaga
+Jonas Valanciunas,81,#17,Memphis Grizzlies,C,05/06/92,6-11 / 2.11,231 lbs. / 104.8 kg.,$16000000,Lithuania,2011,1,5,
