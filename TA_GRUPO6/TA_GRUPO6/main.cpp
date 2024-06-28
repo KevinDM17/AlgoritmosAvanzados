@@ -22,6 +22,7 @@
 #include <map>
 #include <iterator>
 
+#define CORTE 6
 #define MAX_PLAYERS 428
 #define MAX_POBLACION 1000
 
@@ -230,6 +231,28 @@ pair<Individual, Individual> crossover_uniform(Individual& parent1, Individual& 
     return make_pair(Individual(child1_chromo), Individual(child2_chromo));
 }
 
+pair<Individual, Individual> crossover_custom(Individual& parent1, Individual& parent2) {
+    int size = parent1.chromosome.size();
+    vector<int> child1_chromo(size);
+    vector<int> child2_chromo(size);
+
+    for (int i = 0; i < CORTE; ++i) {
+        child1_chromo[i] = parent1.chromosome[i];
+    }
+    for (int i = CORTE; i < size; ++i) {
+        child1_chromo[i] = parent2.chromosome[i];
+    }
+
+    for (int i = 0; i < CORTE; ++i) {
+        child2_chromo[i] = parent2.chromosome[i];
+    }
+    for (int i = CORTE; i < size; ++i) {
+        child2_chromo[i] = parent1.chromosome[i];
+    }
+
+    return make_pair(Individual(child1_chromo), Individual(child2_chromo));
+}
+
 void mutation_flip(Individual& ind) {
     int position = rand() % ind.chromosome.size();
     ind.chromosome[position] = 1 - ind.chromosome[position];
@@ -271,7 +294,7 @@ void algoritmoGenetico(const vector<Player>& listOfPlayers, vector<Individual>& 
         vector<Individual> offspring_population;
         for (auto& parents : mating_pool) {  // por cada pareja del mating pool
             // pair<Individual, Individual> children = crossover_onepoint(parents.first, parents.second); // cruzamiento one point
-            pair<Individual, Individual> children = crossover_uniform(parents.first, parents.second);  // cruzamiento uniforme
+            pair<Individual, Individual> children = crossover_custom(parents.first, parents.second);  // cruzamiento uniforme
 
             if ((double)rand() / RAND_MAX < mutation_rate) { // intenta mutar el hijo 1 de acuerdo a la tasa de mutacion
                 mutation_flip(children.first);
@@ -346,7 +369,6 @@ int main(int argc, char** argv) {
     algoritmoGenetico(listOfPlayers, initial_population, generaciones, 
                     totalPosiciones,TOURNAMENT_SIZE,MUTATION_RATE,
                     posiciones, max_investment);
-
     return 0;
 }
 
