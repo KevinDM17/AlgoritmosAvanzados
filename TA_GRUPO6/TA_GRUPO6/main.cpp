@@ -293,8 +293,8 @@ void algoritmoGenetico(const vector<Player>& listOfPlayers, vector<Individual>& 
         // cruza las parejas del mating pool. Cada cruzamiento genera 2 hijos
         vector<Individual> offspring_population;
         for (auto& parents : mating_pool) {  // por cada pareja del mating pool
-            // pair<Individual, Individual> children = crossover_onepoint(parents.first, parents.second); // cruzamiento one point
-            pair<Individual, Individual> children = crossover_custom(parents.first, parents.second);  // cruzamiento uniforme
+             pair<Individual, Individual> children = crossover_uniform(parents.first, parents.second); // cruzamiento one point
+            //pair<Individual, Individual> children = crossover_custom(parents.first, parents.second);  // cruzamiento uniforme
 
             if ((double)rand() / RAND_MAX < mutation_rate) { // intenta mutar el hijo 1 de acuerdo a la tasa de mutacion
                 mutation_flip(children.first);
